@@ -1,0 +1,21 @@
+{
+  "name": "domstroy-task-management",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "better-sqlite3": "^9.0.0",
+    "body-parser": "^1.20.2",
+    "csv-writer": "^1.6.0",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0",
+    "multer": "^1.4.5",
+    "node-cron": "^3.0.2",
+    "uuid": "^9.0.0",
+    "bcryptjs": "^2.4.3"
+  }
+}
